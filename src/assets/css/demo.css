@@ -398,3 +398,14 @@
     display: inline-block;
     margin-bottom: 25px;
 }
+#canvas {
+    background-color: #000;
+    width: 100%;
+    height: 500px;
+    border: 1px solid black;
+    /*margin: 100px;*/
+    padding: 0px;
+    /*position: static;*/
+    /*top: 100px;*/
+    /*left: 100px;*/
+}

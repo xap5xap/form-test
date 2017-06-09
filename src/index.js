@@ -9,10 +9,8 @@ import { syncHistoryWithStore } from 'react-router-redux';
 import configureStore from './store/configureStore';
 
 require('./favicon.ico'); // Tell webpack to load favicon.ico
-// import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import './assets/css/bootstrap.min.css'; 
 import './assets/sass/gsdk.scss'; 
-// import './assets/css/now-ui-kit.css'; 
 import './assets/css/demo.css'; 
 
 const store = configureStore();
