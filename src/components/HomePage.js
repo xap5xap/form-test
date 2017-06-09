@@ -41,11 +41,6 @@ class HomePage extends React.Component {
 
                             </div>
                         </div>
-                        <div className="row">
-                            <div id="canvas" className="col-md-12 col-sm-12">
-
-                            </div>
-                        </div>
                     </div>
                 </div>
                 <div className="space-30" />

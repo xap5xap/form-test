@@ -76,8 +76,7 @@ class Header extends React.Component {
                         <div className="border no-right-border">Sh</div><div className="border">it</div>
                         <div>Done</div>
                     </div>
-                    <div className="img-src" style={{ backgroundImage: 'url(' + require('../../assets/img/cover_4.jpg') + ')' }}></div>
-                    <div className='img-src blur' style={{ backgroundImage: 'url(' + require('../../assets/img/cover_4_blur.jpg') + ')' }}></div>
+                    <div className="img-src"  id="canvas" ></div>
                 </div>
 
             </div>
